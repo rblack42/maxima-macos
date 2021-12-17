@@ -1,0 +1,586 @@
+2021-12-16 16:45:17 [INFO] <KERNEL> Starting maxima-jupyter kernel
+2021-12-16 16:45:17 [INFO] <KERNEL> Parsing connection file /Users/rblack/Library/Jupyter/runtime/kernel-f364d2be-3f26-4963-83fe-01aed9f147d7.json
+2021-12-16 16:45:18 [INFO] <MAC> Starting message authentification
+2021-12-16 16:45:18 [INFO] <MAC> Using hmac with sha256 digest for message signing.
+2021-12-16 16:45:18 [INFO] <HB-CHANNEL> Starting channel on tcp://127.0.0.1:53201
+2021-12-16 16:45:18 [INFO] <IOPUB-CHANNEL> Starting channel on tcp://127.0.0.1:53199
+2021-12-16 16:45:18 [INFO] <SHELL-CHANNEL> Starting channel on tcp://127.0.0.1:53198
+2021-12-16 16:45:18 [INFO] <STDIN-CHANNEL> Starting channel on tcp://127.0.0.1:53200
+2021-12-16 16:45:18 [INFO] <CONTROL-CHANNEL> Starting channel on tcp://127.0.0.1:53202
+2021-12-16 16:45:18 [INFO] <HISTORY> Starting history
+2021-12-16 16:45:18 [INFO] <HB-CHANNEL> Starting thread
+2021-12-16 16:45:18 [INFO] <KERNEL> Loading CLHS map
+2021-12-16 16:45:18 [INFO] <KERNEL> Handling kernel_info_request message
+2021-12-16 16:45:18 [INFO] <KERNEL> Handling kernel_info_request message
+2021-12-16 16:45:18 [INFO] <KERNEL> Handling kernel_info_request message
+2021-12-16 16:45:18 [INFO] <KERNEL> Handling comm_info_request message
+2021-12-16 16:47:26 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 16:47:27 [INFO] <KERNEL> Parsed expression to evaluate: ((DISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:3370196573.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    ((MTIMES
+                                                                      (0
+                                                                       "CELL:3370196573.MAC.NEWEST"
+                                                                       SRC))
+                                                                     2 24))
+
+2021-12-16 16:47:27 [INFO] <KERNEL> Evaluated result: ((DISPLAYINPUT SIMP
+                                                        (0
+                                                         "CELL:3370196573.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL 48)
+
+2021-12-16 16:47:41 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 16:47:41 [INFO] <KERNEL> Parsed expression to evaluate: ((DISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:3217610048.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    ((MTIMES
+                                                                      (0
+                                                                       "CELL:3217610048.MAC.NEWEST"
+                                                                       SRC))
+                                                                     $_ 5))
+
+2021-12-16 16:47:41 [INFO] <KERNEL> Evaluated result: ((DISPLAYINPUT SIMP
+                                                        (0
+                                                         "CELL:3217610048.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL 240)
+
+2021-12-16 16:48:16 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 16:48:16 [INFO] <KERNEL> Parsed expression to evaluate: ((DISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:1842981741.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    (($INTEGRATE
+                                                                      (0
+                                                                       "CELL:1842981741.MAC.NEWEST"
+                                                                       SRC))
+                                                                     ((MEXPT
+                                                                       (0
+                                                                        "CELL:1842981741.MAC.NEWEST"
+                                                                        SRC))
+                                                                      $X 2)
+                                                                     $X))
+
+2021-12-16 16:48:16 [INFO] <KERNEL> Evaluated result: ((DISPLAYINPUT SIMP
+                                                        (0
+                                                         "CELL:1842981741.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL
+                                                       ((MTIMES SIMP)
+                                                        ((RAT SIMP) 1 3)
+                                                        ((MEXPT SIMP) $X 3)))
+
+2021-12-16 16:48:24 [INFO] <KERNEL> Handling kernel_info_request message
+2021-12-16 16:48:24 [INFO] <KERNEL> Handling kernel_info_request message
+2021-12-16 16:48:47 [INFO] <KERNEL> Handling kernel_info_request message
+2021-12-16 16:48:47 [INFO] <KERNEL> Handling kernel_info_request message
+2021-12-16 17:10:52 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 17:10:52 [INFO] <KERNEL> Parsed expression to evaluate: ((NODISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:3283533701.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    ((MPROGN
+                                                                      (0
+                                                                       "CELL:3283533701.MAC.NEWEST"
+                                                                       SRC))
+                                                                     ((MSETQ
+                                                                       (0
+                                                                        "CELL:3283533701.MAC.NEWEST"
+                                                                        SRC))
+                                                                      $R 10)
+                                                                     ((MSETQ
+                                                                       (0
+                                                                        "CELL:3283533701.MAC.NEWEST"
+                                                                        SRC))
+                                                                      $H 100)))
+
+2021-12-16 17:10:52 [INFO] <KERNEL> Evaluated result: ((NODISPLAYINPUT SIMP
+                                                        (0
+                                                         "CELL:3283533701.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL 100)
+
+2021-12-16 17:10:52 [INFO] <KERNEL> Parsed expression to evaluate: ((DISPLAYINPUT
+                                                                     (1
+                                                                      "CELL:3283533701.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    ((MSETQ
+                                                                      (1
+                                                                       "CELL:3283533701.MAC.NEWEST"
+                                                                       SRC))
+                                                                     $A
+                                                                     ((MTIMES
+                                                                       (1
+                                                                        "CELL:3283533701.MAC.NEWEST"
+                                                                        SRC))
+                                                                      $%PI
+                                                                      $Rˆ2)))
+
+2021-12-16 17:10:52 [INFO] <KERNEL> Evaluated result: ((DISPLAYINPUT SIMP
+                                                        (1
+                                                         "CELL:3283533701.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL
+                                                       ((MTIMES SIMP
+                                                         (1
+                                                          "CELL:3283533701.MAC.NEWEST"
+                                                          SRC))
+                                                        $%PI $Rˆ2))
+
+2021-12-16 17:13:50 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 17:13:50 [INFO] <KERNEL> Parsed expression to evaluate: ((NODISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:182794795.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    ((MPROGN
+                                                                      (0
+                                                                       "CELL:182794795.MAC.NEWEST"
+                                                                       SRC))
+                                                                     ((MSETQ
+                                                                       (0
+                                                                        "CELL:182794795.MAC.NEWEST"
+                                                                        SRC))
+                                                                      $R 10)
+                                                                     ((MSETQ
+                                                                       (0
+                                                                        "CELL:182794795.MAC.NEWEST"
+                                                                        SRC))
+                                                                      $H 100)))
+
+2021-12-16 17:13:50 [INFO] <KERNEL> Evaluated result: ((NODISPLAYINPUT SIMP
+                                                        (0
+                                                         "CELL:182794795.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL 100)
+
+2021-12-16 17:14:20 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 17:14:20 [INFO] <KERNEL> Parsed expression to evaluate: ((DISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:2012199036.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    ((MSETQ
+                                                                      (0
+                                                                       "CELL:2012199036.MAC.NEWEST"
+                                                                       SRC))
+                                                                     $A
+                                                                     ((MTIMES
+                                                                       (0
+                                                                        "CELL:2012199036.MAC.NEWEST"
+                                                                        SRC))
+                                                                      $%PI
+                                                                      $Rˆ2)))
+
+2021-12-16 17:14:20 [INFO] <KERNEL> Evaluated result: ((DISPLAYINPUT SIMP
+                                                        (0
+                                                         "CELL:2012199036.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL
+                                                       ((MTIMES SIMP
+                                                         (0
+                                                          "CELL:2012199036.MAC.NEWEST"
+                                                          SRC))
+                                                        $%PI $Rˆ2))
+
+2021-12-16 17:16:02 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 17:16:02 [INFO] <KERNEL> Parsed expression to evaluate: ((DISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:3390169838.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    ((MSETQ
+                                                                      (0
+                                                                       "CELL:3390169838.MAC.NEWEST"
+                                                                       SRC))
+                                                                     $R 10))
+
+2021-12-16 17:16:02 [INFO] <KERNEL> Evaluated result: ((DISPLAYINPUT SIMP
+                                                        (0
+                                                         "CELL:3390169838.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL 10)
+
+2021-12-16 17:16:18 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 17:16:18 [INFO] <KERNEL> Parsed expression to evaluate: ((DISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:2327825447.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    ((MSETQ
+                                                                      (0
+                                                                       "CELL:2327825447.MAC.NEWEST"
+                                                                       SRC))
+                                                                     $H 2))
+
+2021-12-16 17:16:18 [INFO] <KERNEL> Evaluated result: ((DISPLAYINPUT SIMP
+                                                        (0
+                                                         "CELL:2327825447.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL 2)
+
+2021-12-16 17:16:33 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 17:19:08 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 17:19:08 [INFO] <KERNEL> Parsed expression to evaluate: ((NODISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:3624750785.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    ((MSETQ
+                                                                      (0
+                                                                       "CELL:3624750785.MAC.NEWEST"
+                                                                       SRC))
+                                                                     $A
+                                                                     ((MTIMES
+                                                                       (0
+                                                                        "CELL:3624750785.MAC.NEWEST"
+                                                                        SRC))
+                                                                      2 $%PI)))
+
+2021-12-16 17:19:08 [INFO] <KERNEL> Evaluated result: ((NODISPLAYINPUT SIMP
+                                                        (0
+                                                         "CELL:3624750785.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL
+                                                       ((MTIMES SIMP
+                                                         (0
+                                                          "CELL:3624750785.MAC.NEWEST"
+                                                          SRC))
+                                                        2 $%PI))
+
+2021-12-16 17:19:34 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 17:19:34 [INFO] <KERNEL> Parsed expression to evaluate: ((NODISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:2294150566.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    ((MSETQ
+                                                                      (0
+                                                                       "CELL:2294150566.MAC.NEWEST"
+                                                                       SRC))
+                                                                     $A
+                                                                     ((MTIMES
+                                                                       (0
+                                                                        "CELL:2294150566.MAC.NEWEST"
+                                                                        SRC))
+                                                                      2 $%PI
+                                                                      $R)))
+
+2021-12-16 17:19:34 [INFO] <KERNEL> Evaluated result: ((NODISPLAYINPUT SIMP
+                                                        (0
+                                                         "CELL:2294150566.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL
+                                                       ((MTIMES SIMP) 20 $%PI))
+
+2021-12-16 17:20:38 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 17:21:08 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 17:21:08 [INFO] <KERNEL> Parsed expression to evaluate: ((NODISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:1671922359.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    (($EV
+                                                                      (0
+                                                                       "CELL:1671922359.MAC.NEWEST"
+                                                                       SRC))
+                                                                     ((MLIST
+                                                                       (0
+                                                                        "CELL:1671922359.MAC.NEWEST"
+                                                                        SRC))
+                                                                      $A)
+                                                                     $NUMER))
+
+2021-12-16 17:21:08 [INFO] <KERNEL> Evaluated result: ((NODISPLAYINPUT SIMP
+                                                        (0
+                                                         "CELL:1671922359.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL
+                                                       ((MLIST SIMP
+                                                         (0
+                                                          "CELL:1671922359.MAC.NEWEST"
+                                                          SRC))
+                                                        62.83185307179586))
+
+2021-12-16 17:24:35 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 17:24:35 [INFO] <KERNEL> Parsed expression to evaluate: ((DISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:402152666.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    ((MEXPT
+                                                                      (0
+                                                                       "CELL:402152666.MAC.NEWEST"
+                                                                       SRC))
+                                                                     ((MPLUS
+                                                                       (0
+                                                                        "CELL:402152666.MAC.NEWEST"
+                                                                        SRC))
+                                                                      $X
+                                                                      ((MTIMES
+                                                                        (0
+                                                                         "CELL:402152666.MAC.NEWEST"
+                                                                         SRC))
+                                                                       3 $Y)
+                                                                      ((MTIMES
+                                                                        (0
+                                                                         "CELL:402152666.MAC.NEWEST"
+                                                                         SRC))
+                                                                       ((MEXPT
+                                                                         (0
+                                                                          "CELL:402152666.MAC.NEWEST"
+                                                                          SRC))
+                                                                        $X 2)
+                                                                       $Y))
+                                                                     3))
+
+2021-12-16 17:24:35 [INFO] <KERNEL> Evaluated result: ((DISPLAYINPUT SIMP
+                                                        (0
+                                                         "CELL:402152666.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL
+                                                       ((MEXPT SIMP)
+                                                        ((MPLUS SIMP
+                                                          (0
+                                                           "CELL:402152666.MAC.NEWEST"
+                                                           SRC))
+                                                         $X
+                                                         ((MTIMES SIMP
+                                                           (0
+                                                            "CELL:402152666.MAC.NEWEST"
+                                                            SRC))
+                                                          3 $Y)
+                                                         ((MTIMES SIMP
+                                                           (0
+                                                            "CELL:402152666.MAC.NEWEST"
+                                                            SRC))
+                                                          ((MEXPT SIMP
+                                                            (0
+                                                             "CELL:402152666.MAC.NEWEST"
+                                                             SRC))
+                                                           $X 2)
+                                                          $Y))
+                                                        3))
+
+2021-12-16 17:24:47 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 17:24:47 [INFO] <KERNEL> Parsed expression to evaluate: ((DISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:3449640391.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    (($EXPAND
+                                                                      (0
+                                                                       "CELL:3449640391.MAC.NEWEST"
+                                                                       SRC))
+                                                                     $%))
+
+2021-12-16 17:24:47 [INFO] <KERNEL> Evaluated result: ((DISPLAYINPUT SIMP
+                                                        (0
+                                                         "CELL:3449640391.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL
+                                                       ((MPLUS SIMP)
+                                                        ((MEXPT SIMP) $X 3)
+                                                        ((MTIMES SIMP) 9
+                                                         ((MEXPT SIMP) $X 2)
+                                                         $Y)
+                                                        ((MTIMES SIMP) 3
+                                                         ((MEXPT SIMP) $X 4)
+                                                         $Y)
+                                                        ((MTIMES SIMP) 27 $X
+                                                         ((MEXPT SIMP) $Y 2))
+                                                        ((MTIMES SIMP) 18
+                                                         ((MEXPT SIMP) $X 3)
+                                                         ((MEXPT SIMP) $Y 2))
+                                                        ((MTIMES SIMP) 3
+                                                         ((MEXPT SIMP) $X 5)
+                                                         ((MEXPT SIMP) $Y 2))
+                                                        ((MTIMES SIMP) 27
+                                                         ((MEXPT SIMP) $Y 3))
+                                                        ((MTIMES SIMP) 27
+                                                         ((MEXPT SIMP
+                                                           (0
+                                                            "CELL:402152666.MAC.NEWEST"
+                                                            SRC))
+                                                          $X 2)
+                                                         ((MEXPT SIMP) $Y 3))
+                                                        ((MTIMES SIMP) 9
+                                                         ((MEXPT SIMP) $X 4)
+                                                         ((MEXPT SIMP) $Y 3))
+                                                        ((MTIMES SIMP)
+                                                         ((MEXPT SIMP) $X 6)
+                                                         ((MEXPT SIMP) $Y 3))))
+
+2021-12-16 17:25:05 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 17:25:05 [INFO] <KERNEL> Parsed expression to evaluate: ((DISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:1915182427.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    (($FACTOR
+                                                                      (0
+                                                                       "CELL:1915182427.MAC.NEWEST"
+                                                                       SRC))
+                                                                     $%))
+
+2021-12-16 17:25:05 [INFO] <KERNEL> Evaluated result: ((DISPLAYINPUT SIMP
+                                                        (0
+                                                         "CELL:1915182427.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL
+                                                       ((MEXPT SIMP FACTORED)
+                                                        ((MPLUS SIMP
+                                                          IRREDUCIBLE)
+                                                         $X
+                                                         ((MTIMES SIMP RATSIMP)
+                                                          3 $Y)
+                                                         ((MTIMES SIMP)
+                                                          ((MEXPT SIMP RATSIMP)
+                                                           $X 2)
+                                                          $Y))
+                                                        3))
+
+2021-12-16 17:25:22 [INFO] <KERNEL> Handling kernel_info_request message
+2021-12-16 17:25:22 [INFO] <KERNEL> Handling kernel_info_request message
+2021-12-16 17:39:52 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 17:39:52 [INFO] <KERNEL> Parsed expression to evaluate: ((DISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:2070503420.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    (($SET_PLOT_OPTION
+                                                                      (0
+                                                                       "CELL:2070503420.MAC.NEWEST"
+                                                                       SRC))
+                                                                     ((MLIST
+                                                                       (0
+                                                                        "CELL:2070503420.MAC.NEWEST"
+                                                                        SRC))
+                                                                      $SVG_FILE
+                                                                      "maxplot.svg")))
+
+2021-12-16 17:39:52 [INFO] <KERNEL> Evaluated result: ((DISPLAYINPUT SIMP
+                                                        (0
+                                                         "CELL:2070503420.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL
+                                                       ((MLIST SIMP)
+                                                        ((MLIST SIMP) $SVG_FILE
+                                                         "maxplot.svg")
+                                                        ((MLIST SIMP)
+                                                         $PLOT_FORMAT $GNUPLOT)
+                                                        ((MLIST SIMP) $GRID 30
+                                                         30)
+                                                        ((MLIST SIMP)
+                                                         $RUN_VIEWER T)
+                                                        ((MLIST SIMP) $AXES T)
+                                                        ((MLIST SIMP) $NTICKS
+                                                         29)
+                                                        ((MLIST SIMP)
+                                                         $ADAPT_DEPTH 5)
+                                                        ((MLIST SIMP) $COLOR
+                                                         $BLUE $RED $GREEN
+                                                         $MAGENTA $BLACK $CYAN)
+                                                        ((MLIST SIMP)
+                                                         $POINT_TYPE $BULLET
+                                                         $BOX $TRIANGLE $PLUS
+                                                         $TIMES $ASTERISK)
+                                                        ((MLIST SIMP) $PALETTE
+                                                         ((MLIST SIMP)
+                                                          $GRADIENT $GREEN
+                                                          $CYAN $BLUE $VIOLET)
+                                                         ((MLIST SIMP)
+                                                          $GRADIENT $MAGENTA
+                                                          $VIOLET $BLUE $CYAN
+                                                          $GREEN $YELLOW
+                                                          $ORANGE $RED $BROWN
+                                                          $BLACK))
+                                                        ((MLIST SIMP)
+                                                         $GNUPLOT_PREAMBLE "")
+                                                        ((MLIST SIMP)
+                                                         $GNUPLOT_TERM
+                                                         $DEFAULT)))
+
+2021-12-16 17:40:37 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 17:40:37 [INFO] <KERNEL> Parsed expression to evaluate: ((DISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:2222030941.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    (($PLOT2D
+                                                                      (0
+                                                                       "CELL:2222030941.MAC.NEWEST"
+                                                                       SRC))
+                                                                     ((MLIST
+                                                                       (0
+                                                                        "CELL:2222030941.MAC.NEWEST"
+                                                                        SRC))
+                                                                      $CONTOUR
+                                                                      ((MPLUS
+                                                                        (0
+                                                                         "CELL:2222030941.MAC.NEWEST"
+                                                                         SRC))
+                                                                       ((MEXPT
+                                                                         (0
+                                                                          "CELL:2222030941.MAC.NEWEST"
+                                                                          SRC))
+                                                                        $Y 2)
+                                                                       ((MEXPT
+                                                                         (0
+                                                                          "CELL:2222030941.MAC.NEWEST"
+                                                                          SRC))
+                                                                        $X 2)))
+                                                                     ((MLIST
+                                                                       (0
+                                                                        "CELL:2222030941.MAC.NEWEST"
+                                                                        SRC))
+                                                                      $X
+                                                                      ((MMINUS
+                                                                        (0
+                                                                         "CELL:2222030941.MAC.NEWEST"
+                                                                         SRC))
+                                                                       4)
+                                                                      4)
+                                                                     ((MLIST
+                                                                       (0
+                                                                        "CELL:2222030941.MAC.NEWEST"
+                                                                        SRC))
+                                                                      $Y
+                                                                      ((MMINUS
+                                                                        (0
+                                                                         "CELL:2222030941.MAC.NEWEST"
+                                                                         SRC))
+                                                                       4)
+                                                                      4)))
+
+2021-12-16 17:40:39 [INFO] <KERNEL> Evaluated result: ((DISPLAYINPUT SIMP
+                                                        (0
+                                                         "CELL:2222030941.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL
+                                                       ((MLIST SIMP)
+                                                        "/var/folders/t9/hc5s57h95tj3rsp4qvk61m8m0000gn/T/maxout65614.gnuplot"
+                                                        "/var/folders/t9/hc5s57h95tj3rsp4qvk61m8m0000gn/T/maxplot.svg"))
+
+2021-12-16 18:00:34 [INFO] <KERNEL> Handling kernel_info_request message
+2021-12-16 18:00:34 [INFO] <KERNEL> Handling kernel_info_request message
+2021-12-16 18:54:56 [INFO] <KERNEL> Handling interrupt_request message
+2021-12-16 18:54:57 [INFO] <KERNEL> Handling shutdown_request message
+2021-12-16 18:54:57 [INFO] <KERNEL> Shell thread exiting normally.
+2021-12-16 18:54:57 [INFO] <KERNEL> Stopping maxima-jupyter kernel
+2021-12-16 18:54:57 [INFO] <HB-CHANNEL> Stopping thread
+2021-12-16 18:54:57 [INFO] <HB-CHANNEL> Stopping channel
+2021-12-16 18:54:57 [INFO] <IOPUB-CHANNEL> Stopping channel
+2021-12-16 18:54:57 [INFO] <SHELL-CHANNEL> Stopping channel
+2021-12-16 18:54:57 [INFO] <STDIN-CHANNEL> Stopping channel
+2021-12-16 18:54:57 [INFO] <CONTROL-CHANNEL> Stopping channel
+2021-12-16 18:54:57 [INFO] <MAC> Stopping message authentification
+2021-12-16 18:54:57 [INFO] <HISTORY> Stopping history

@@ -1,0 +1,278 @@
+2021-12-16 17:34:36 [INFO] <KERNEL> Starting maxima-jupyter kernel
+2021-12-16 17:34:36 [INFO] <KERNEL> Parsing connection file /Users/rblack/Library/Jupyter/runtime/kernel-4b508de9-3db8-49af-a638-e86ea76b8295.json
+2021-12-16 17:34:36 [INFO] <MAC> Starting message authentification
+2021-12-16 17:34:36 [INFO] <MAC> Using hmac with sha256 digest for message signing.
+2021-12-16 17:34:36 [INFO] <HB-CHANNEL> Starting channel on tcp://127.0.0.1:53577
+2021-12-16 17:34:36 [INFO] <IOPUB-CHANNEL> Starting channel on tcp://127.0.0.1:53575
+2021-12-16 17:34:36 [INFO] <SHELL-CHANNEL> Starting channel on tcp://127.0.0.1:53574
+2021-12-16 17:34:36 [INFO] <STDIN-CHANNEL> Starting channel on tcp://127.0.0.1:53576
+2021-12-16 17:34:36 [INFO] <CONTROL-CHANNEL> Starting channel on tcp://127.0.0.1:53578
+2021-12-16 17:34:36 [INFO] <HISTORY> Starting history
+2021-12-16 17:34:36 [INFO] <HB-CHANNEL> Starting thread
+2021-12-16 17:34:36 [INFO] <KERNEL> Loading CLHS map
+2021-12-16 17:34:36 [INFO] <KERNEL> Handling kernel_info_request message
+2021-12-16 17:34:36 [INFO] <KERNEL> Handling kernel_info_request message
+2021-12-16 17:34:36 [INFO] <KERNEL> Handling kernel_info_request message
+2021-12-16 17:34:36 [INFO] <KERNEL> Handling comm_info_request message
+2021-12-16 17:35:34 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 17:35:34 [INFO] <KERNEL> Parsed expression to evaluate: ((DISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:3184247767.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    ((MSETQ
+                                                                      (0
+                                                                       "CELL:3184247767.MAC.NEWEST"
+                                                                       SRC))
+                                                                     $FOO
+                                                                     ((%DERIVATIVE
+                                                                       (0
+                                                                        "CELL:3184247767.MAC.NEWEST"
+                                                                        SRC))
+                                                                      ((MQUOTIENT
+                                                                        (0
+                                                                         "CELL:3184247767.MAC.NEWEST"
+                                                                         SRC))
+                                                                       1
+                                                                       ((MPLUS
+                                                                         (0
+                                                                          "CELL:3184247767.MAC.NEWEST"
+                                                                          SRC))
+                                                                        1
+                                                                        ((%SQRT
+                                                                          (0
+                                                                           "CELL:3184247767.MAC.NEWEST"
+                                                                           SRC))
+                                                                         ((MPLUS
+                                                                           (0
+                                                                            "CELL:3184247767.MAC.NEWEST"
+                                                                            SRC))
+                                                                          1
+                                                                          ((MMINUS
+                                                                            (0
+                                                                             "CELL:3184247767.MAC.NEWEST"
+                                                                             SRC))
+                                                                           ((MTIMES
+                                                                             (0
+                                                                              "CELL:3184247767.MAC.NEWEST"
+                                                                              SRC))
+                                                                            $A
+                                                                            ((MEXPT
+                                                                              (0
+                                                                               "CELL:3184247767.MAC.NEWEST"
+                                                                               SRC))
+                                                                             $X
+                                                                             2)))))))
+                                                                      $X 2)))
+
+2021-12-16 17:35:34 [INFO] <KERNEL> Evaluated result: ((DISPLAYINPUT SIMP
+                                                        (0
+                                                         "CELL:3184247767.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL
+                                                       ((%DERIVATIVE SIMP
+                                                         (0
+                                                          "CELL:3184247767.MAC.NEWEST"
+                                                          SRC))
+                                                        ((MEXPT SIMP)
+                                                         ((MPLUS SIMP
+                                                           (0
+                                                            "CELL:3184247767.MAC.NEWEST"
+                                                            SRC))
+                                                          1
+                                                          ((MEXPT SIMP)
+                                                           ((MPLUS SIMP
+                                                             (0
+                                                              "CELL:3184247767.MAC.NEWEST"
+                                                              SRC))
+                                                            1
+                                                            ((MTIMES SIMP) -1
+                                                             $A
+                                                             ((MEXPT SIMP
+                                                               (0
+                                                                "CELL:3184247767.MAC.NEWEST"
+                                                                SRC))
+                                                              $X 2)))
+                                                           ((RAT SIMP) 1 2)))
+                                                         -1)
+                                                        $X 2))
+
+2021-12-16 17:35:45 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 17:35:45 [INFO] <KERNEL> Parsed expression to evaluate: ((DISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:9539031.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    ((MSETQ
+                                                                      (0
+                                                                       "CELL:9539031.MAC.NEWEST"
+                                                                       SRC))
+                                                                     $BAR
+                                                                     (($EV
+                                                                       (0
+                                                                        "CELL:9539031.MAC.NEWEST"
+                                                                        SRC))
+                                                                      $FOO
+                                                                      $NOUNS)))
+
+2021-12-16 17:35:45 [INFO] <KERNEL> Evaluated result: ((DISPLAYINPUT SIMP
+                                                        (0
+                                                         "CELL:9539031.MAC.NEWEST"
+                                                         SRC))
+                                                       NIL
+                                                       ((MPLUS SIMP)
+                                                        ((MTIMES SIMP) 2
+                                                         ((MEXPT SIMP) $A 2)
+                                                         ((MEXPT SIMP) $X 2)
+                                                         ((MEXPT SIMP)
+                                                          ((MPLUS SIMP
+                                                            (0
+                                                             "CELL:3184247767.MAC.NEWEST"
+                                                             SRC))
+                                                           1
+                                                           ((MTIMES SIMP) -1 $A
+                                                            ((MEXPT SIMP
+                                                              (0
+                                                               "CELL:3184247767.MAC.NEWEST"
+                                                               SRC))
+                                                             $X 2)))
+                                                          -1)
+                                                         ((MEXPT SIMP)
+                                                          ((MPLUS SIMP
+                                                            (0
+                                                             "CELL:3184247767.MAC.NEWEST"
+                                                             SRC))
+                                                           1
+                                                           ((MEXPT SIMP)
+                                                            ((MPLUS SIMP
+                                                              (0
+                                                               "CELL:3184247767.MAC.NEWEST"
+                                                               SRC))
+                                                             1
+                                                             ((MTIMES SIMP) -1
+                                                              $A
+                                                              ((MEXPT SIMP
+                                                                (0
+                                                                 "CELL:3184247767.MAC.NEWEST"
+                                                                 SRC))
+                                                               $X 2)))
+                                                            ((RAT SIMP) 1 2)))
+                                                          -3))
+                                                        ((MTIMES SIMP)
+                                                         ((MEXPT SIMP) $A 2)
+                                                         ((MEXPT SIMP) $X 2)
+                                                         ((MEXPT SIMP)
+                                                          ((MPLUS SIMP
+                                                            (0
+                                                             "CELL:3184247767.MAC.NEWEST"
+                                                             SRC))
+                                                           1
+                                                           ((MTIMES SIMP) -1 $A
+                                                            ((MEXPT SIMP
+                                                              (0
+                                                               "CELL:3184247767.MAC.NEWEST"
+                                                               SRC))
+                                                             $X 2)))
+                                                          ((RAT SIMP) -3 2))
+                                                         ((MEXPT SIMP)
+                                                          ((MPLUS SIMP
+                                                            (0
+                                                             "CELL:3184247767.MAC.NEWEST"
+                                                             SRC))
+                                                           1
+                                                           ((MEXPT SIMP)
+                                                            ((MPLUS SIMP
+                                                              (0
+                                                               "CELL:3184247767.MAC.NEWEST"
+                                                               SRC))
+                                                             1
+                                                             ((MTIMES SIMP) -1
+                                                              $A
+                                                              ((MEXPT SIMP
+                                                                (0
+                                                                 "CELL:3184247767.MAC.NEWEST"
+                                                                 SRC))
+                                                               $X 2)))
+                                                            ((RAT SIMP) 1 2)))
+                                                          -2))
+                                                        ((MTIMES SIMP) $A
+                                                         ((MEXPT SIMP)
+                                                          ((MPLUS SIMP
+                                                            (0
+                                                             "CELL:3184247767.MAC.NEWEST"
+                                                             SRC))
+                                                           1
+                                                           ((MTIMES SIMP) -1 $A
+                                                            ((MEXPT SIMP
+                                                              (0
+                                                               "CELL:3184247767.MAC.NEWEST"
+                                                               SRC))
+                                                             $X 2)))
+                                                          ((RAT SIMP) -1 2))
+                                                         ((MEXPT SIMP)
+                                                          ((MPLUS SIMP
+                                                            (0
+                                                             "CELL:3184247767.MAC.NEWEST"
+                                                             SRC))
+                                                           1
+                                                           ((MEXPT SIMP)
+                                                            ((MPLUS SIMP
+                                                              (0
+                                                               "CELL:3184247767.MAC.NEWEST"
+                                                               SRC))
+                                                             1
+                                                             ((MTIMES SIMP) -1
+                                                              $A
+                                                              ((MEXPT SIMP
+                                                                (0
+                                                                 "CELL:3184247767.MAC.NEWEST"
+                                                                 SRC))
+                                                               $X 2)))
+                                                            ((RAT SIMP) 1 2)))
+                                                          -2))))
+
+2021-12-16 17:36:29 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 17:36:29 [INFO] <KERNEL> Parsed expression to evaluate: ((DISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:3151018700.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    (($INTEGRATE
+                                                                      (0
+                                                                       "CELL:3151018700.MAC.NEWEST"
+                                                                       SRC))
+                                                                     ((MEXPT
+                                                                       (0
+                                                                        "CELL:3151018700.MAC.NEWEST"
+                                                                        SRC))
+                                                                      $X $K)
+                                                                     $X))
+
+2021-12-16 18:54:55 [INFO] <KERNEL> Handling interrupt_request message
+2021-12-16 18:54:55 [INFO] <KERNEL> Handling execute_request message
+2021-12-16 18:54:55 [INFO] <KERNEL> Parsed expression to evaluate: ((DISPLAYINPUT
+                                                                     (0
+                                                                      "CELL:3151018700.MAC.NEWEST"
+                                                                      SRC))
+                                                                    NIL
+                                                                    (($INTEGRATE
+                                                                      (0
+                                                                       "CELL:3151018700.MAC.NEWEST"
+                                                                       SRC))
+                                                                     ((MEXPT
+                                                                       (0
+                                                                        "CELL:3151018700.MAC.NEWEST"
+                                                                        SRC))
+                                                                      $X $K)
+                                                                     $X))
+
+2021-12-16 18:54:56 [INFO] <KERNEL> Handling shutdown_request message
+2021-12-16 18:54:56 [INFO] <KERNEL> Stopping maxima-jupyter kernel
+2021-12-16 18:54:56 [INFO] <HB-CHANNEL> Stopping thread
+2021-12-16 18:54:56 [INFO] <HB-CHANNEL> Stopping channel
+2021-12-16 18:54:56 [INFO] <IOPUB-CHANNEL> Stopping channel
+2021-12-16 18:54:56 [INFO] <SHELL-CHANNEL> Stopping channel
+2021-12-16 18:54:56 [INFO] <STDIN-CHANNEL> Stopping channel
+2021-12-16 18:54:56 [INFO] <CONTROL-CHANNEL> Stopping channel
+2021-12-16 18:54:56 [INFO] <MAC> Stopping message authentification
+2021-12-16 18:54:56 [INFO] <HISTORY> Stopping history

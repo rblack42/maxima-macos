@@ -1,0 +1,14 @@
+# Vim
+*~
+*.swp
+
+# Python
+__pycache__
+*.py[cod]
+.direnv
+
+#Mac
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints

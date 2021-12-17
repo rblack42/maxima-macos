@@ -1,0 +1,23 @@
+---
+- name: clone maxima repo
+  git:
+    repo: https://github.com/calyau/maxima.git
+    dest: /Users/rblack/_dev/maxima/repo
+    update: yes
+
+- name: download quicklisp
+  get_url:
+    url: https://beta.quicklisp.org/quicklisp.lisp
+    dest: /Users/rblack/_dev/maxima/repo
+
+- name: install dependencies
+  homebrew:
+    name:
+        - sbcl
+        - gpg
+        - zmq
+        - gnuplot
+        - wxmaxima
+        - maxima
+    state: present
+    update_homebrew: yes
